@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Aayush Sonkar</h1>
 <h3 align="center">A passionate for Building using the newer Technologies.</h3>
 
-<img align=“right” alt=“coding” src=”https://www.google.com/url?sa=i&url=https%3A%2F%2Fsmejoinup.com%2Fraising-investment-funds%2F&psig=AOvVaw26Zq4bF7UO6Mm8qHwUZyIo&ust=1697472287374000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi9g4i4-IEDFQAAAAAdAAAAABAE”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-hush&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-hush" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@a_ayus_h" target="blank"><img src="https://img.shields.io/twitter/follow/@a_ayus_h?logo=twitter&style=for-the-badge" alt="@a_ayus_h" /></a> </p>
