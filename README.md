@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React and Solidity**
 
-- 📝 I regularly write on [Twitter now X](Twitter now X)
+- 📝 I regularly write on [Twitter now X]
 
 - 💬 Ask me about **SAAS-AI**
 
